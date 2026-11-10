@@ -16,8 +16,7 @@ Rolls-Royce Aerospace needs to predict the Remaining Useful Life (RUL) of turbof
 
 ## Workflow
 
-![Flow diagram](images/flow_diagram.png)
-
+![Flow diagram](flow_diagram.png)
 1. **Data loading:** read `train_FD001`, `test_FD001` and `RUL_FD001`
 2. **EDA and visualization:** lifetime distribution, sensor standard deviations, sensor degradation trends, correlation heatmap
 3. **Pre-processing**
