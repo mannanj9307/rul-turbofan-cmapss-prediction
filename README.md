@@ -78,11 +78,7 @@ Future Work
 Other subsets (FD002 to FD004) with multiple operating conditions
 Attention layers and Transformers
 Deployment as a dashboard
-Team
-[Add your names and roll numbers]
 
 Acknowledgement
 Dataset: NASA Prognostics Center of Excellence, C-MAPSS turbofan engine degradation simulation.
 
-
-Claude finished the response
